@@ -40,7 +40,7 @@ For time being the model tends to record and analyse the 45 seconds which can be
 
 <p>So the following datasets were used </p>
 
- 1. face_landmarks
+1. face_landmarks
 2.  padding.pickle
 3.  Personality_traits_NN.h5
 4.  Personality_traits_NN
@@ -50,6 +50,9 @@ For time being the model tends to record and analyse the 45 seconds which can be
 
 [Click here for the datasets](https://drive.google.com/drive/folders/1MfXn-GFqrw1LRZ1Y3bEZXoJbu8iQIAEN?usp=sharing)
 You can access all the datasets here.. Cheers !!
+
+<h2>Future Goals</h2><br>
+<p>So what the future expects from us is that we will be also adding text analysis as well as audio analysis for much better analaysis of the candidate. We can build another window for the text analysis wherein the the interviewer can directly ask a question and the candidate may answer it within a time period.</p>
 
 <h3> 🤝🏻 Connect with Team Pi </h3>
 <p>
