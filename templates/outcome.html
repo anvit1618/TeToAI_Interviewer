@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <meta name="keywords"
+    content="Robots Are The Future, Human-robot, The robots of CES 2019, Artificial Intelligence Robots And The Future Of Work, Robots and AI">
+  <meta name="description" content="">
+  <meta name="page_type" content="np-template-header-footer-from-plugin">
+  <title>Page 1</title>
+  <link rel="stylesheet" href="/static/css/outcome/nicepage.css" media="screen">
+  <link rel="stylesheet" href="/static/css/outcome/Page-1.css" media="screen">
+  <script class="u-script" type="text/javascript" src="/static/js/outcome/jquery.js" defer=""></script>
+  <script class="u-script" type="text/javascript" src="/static/js/outcome/nicepage.js" defer=""></script>
+  <!-- --------------------------------------------------------- -->
+
+  <script type="text/javascript" src="/static/js/d3/d3.js"></script>
+  <script src="//d3js.org/d3-scale-chromatic.v0.3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+
+  <!-- --------------------------------------------------------- -->
+  <meta name="generator" content="Nicepage 2.29.5, nicepage.com">
+  <link id="u-theme-google-font" rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+  <link id="u-page-google-font" rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Exo+2:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+
+
+
+
+
+  <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"url": "index.html"
+}</script>
+  <meta property="og:title" content="Page 1">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#478ac9">
+  <link rel="canonical" href="index.html">
+  <meta property="og:url" content="index.html">
+</head>
+
+<body class="u-body">
+  <header class="u-clearfix u-grey-90 u-header u-header" id="sec-7e9d">
+    <div class="u-clearfix u-sheet u-sheet-1">
+      <img src="/static/css/images/20201025_175059_0000.png" alt="" class="u-image u-image-circle u-image-1"
+        data-image-width="500" data-image-height="500">
+      <h2 class="u-custom-font u-subtitle u-text u-text-default u-text-1">Pi ~ 3.141592653... Those 3 dots is our TEAM
+      </h2>
+    </div>
+  </header>
+  <section class="u-clearfix u-gradient u-section-1" id="sec-e09d">
+    <div class="u-clearfix u-sheet u-sheet-1"><br>
+      <div class="u-align-left u-container-style u-group u-shape-rectangle u-white u-group-1">
+      <div class="u-container-layout u-container-layout-1">
+        <div style="left: 30px;">
+      <h2 style="width: 1000px; font-size: 60px; border-bottom: 1px solid; margin-bottom: 5px;
+    padding-bottom: 20px; border-bottom-width: 2px; font-family: Secular One;"><b>Results of the Candidate</b></h2><br>
+      <br>
+      <div style=" font-family: PT Sans; font-size: 30px;padding-bottom: 30px;">
+        Your result is displayed in a statistical manner
+      </div>
+
+      <div id="hist_density_perso"></div>
+
+
+      <div style="position: absolute; right: 210px; top: 200px;">
+        <h3 style=" font-size: 30px;font-family: Secular One;"><u><b>Your Emotions %</b></u> </h3>
+        <div>
+          <ul>
+            <div style="font-family: PT Sans; font-size: 25px;">
+              <li>Displease : {{prob[0]}}%</li>
+              <li>Disinterested : {{prob[1]}}%</li>
+              <li>Nervous : {{prob[2]}}%</li>
+              <li>Happiness : {{prob[3]}}%</li>
+              <li>Unsure : {{prob[4]}}%</li>
+              <li>Confused : {{prob[5]}}%</li>
+              <li>Neutrality : {{prob[6]}}%</li>
+            </div>
+          </ul>
+        </div>
+
+
+      </div>
+      <br>
+      <p style="font-family: PT Sans; font-size: 27px;">Your most frequent emotion is : <i
+          style="font-family: PT Sans; font-size: 35px;"><strong>{{emo}}</strong></i></p>
+      <br>
+      </div>
+      </div>
+      </div><br>
+
+      
+      <div>
+        <div class="u-align-left u-container-style u-group u-shape-rectangle u-white u-group-1">
+          <div class="u-container-layout u-container-layout-1">
+            <div style="left: 30px;">
+        <h2 style="width: 1000px; font-size: 60px; border-bottom: 1px solid; margin-bottom: 5px; padding-top: 10px;
+        padding-bottom: 20px; border-bottom-width: 2px; font-family: Secular One;"><b>Average Results of Past Candidates</b></h2><br>
+
+        
+        
+        <div>
+          <div id="hist_density"></div>
+          <div style="position: absolute; right: 150px; top: 170px;">
+            
+            <h3 style=" font-size: 30px;font-family: Secular One; "><u><b>Their Emotions %</b></u></h3>
+            <div>
+              <ul>
+                <div style="font-family: PT Sans; font-size: 25px; ;">
+                  <li>Displease : {{prob_other[0]}}%</li>
+                  <li>Disinterested : {{prob_other[1]}}%</li>
+                  <li>Nervous : {{prob_other[2]}}%</li>
+                  <li>Happy : {{prob_other[3]}}%</li>
+                  <li>Neutral : {{prob_other[4]}}%</li>
+                  <li>Unsure : {{prob_other[5]}}%</li>
+                  <li>Confused : {{prob_other[6]}}%</li>
+                </div>
+              </ul>
+            </div>
+            <br>
+          </div>
+        </div>
+
+        <br>
+        <p style="font-family: PT Sans; font-size: 27px;">Usually the most frequent emotion of previous Candidates is :
+          <i style="font-family: PT Sans; font-size: 35px;"><strong>{{emo_other}} </strong></i></p>
+        <br>
+        </div>
+          </div>
+        </div>        
+        <br>
+        <div class="u-align-left u-container-style u-group u-shape-rectangle u-white u-group-1" style="margin-bottom: -120px;">
+          <div class="u-container-layout u-container-layout-1" >
+            <div style="left: 30px;">
+        <div style="padding-top: 10px;">
+          <h2 style="width: 1000px; font-size: 60px; border-bottom: 1px solid; margin-bottom: 5px; 
+          padding-bottom: 20px; border-bottom-width: 2px; font-family: Secular One;"><b>Emotions observed Over Time</b></h2>
+          <br>
+
+
+          <br>
+          <div>
+            <div>
+              <iframe src="static/CSS/chart.html" width="1400px" height="600px" frameBorder="0"></iframe>
+
+
+              <script type="text/javascript" src="static/js/hist_vid_perso.js"></script>
+              <script type="text/javascript" src="static/js/hist_vid_glob.js"></script>
+              <br>
+              <br>
+            </div>
+          </div>
+        </div>
+        </div>
+        </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+
+  <section class="u-align-left u-clearfix u-gradient u-section-4" id="sec-f854">
+    <div class="u-clearfix u-sheet u-sheet-1">
+      <div class="u-align-left u-container-style u-group u-shape-rectangle u-white u-group-1">
+        <div class="u-container-layout u-container-layout-1">
+          <h2 class="u-custom-font u-text u-text-1">#FUTURE GOALS</h2>
+          <ul class="u-custom-font u-text u-text-2">
+            <li>
+              <font style="font-size: 1.5rem;"><b>Increase the duration of the input video which is currently 45
+                  seconds</b>
+              </font>
+            </li>
+            <li>
+              <font style="font-size: 1.5rem;"><b>We can take audio input from the candidate as well in the
+                  order to get the detailed analysis of the candidate</b>
+              </font>
+            </li>
+            <li>
+              <font style="font-size: 1.5rem;"><b>Further we can go with text analysis of the written answers
+                  for the questions asked by the interviewer on the spot</b>
+              </font>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <img src="/static/css/images/20201025_175059_0000.png" alt="" class="u-image u-image-circle u-image-1"
+        data-image-width="500" data-image-height="500"
+        data-href="https://www.youtube.com/channel/UCtod0cyzPDfuv5WIpytDDNw" data-target="_blank">
+    </div>
+  </section>
+
+
+  <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-fd95">
+    <div class="u-clearfix u-sheet u-sheet-1">
+      <p class="u-custom-font u-small-text u-text u-text-variant u-text-1">To see our more projects, see our
+        YouTube channel</p>
+      <img src="/static/CSS/images/youtube.png"
+        alt="" class="u-image u-image-default u-image-1" data-image-width="150" data-image-height="86"
+        data-href="https://www.youtube.com/channel/UCtod0cyzPDfuv5WIpytDDNw/featured" data-target="_blank">
+    </div>
+  </footer>
+
+</body>
+
+</html>
