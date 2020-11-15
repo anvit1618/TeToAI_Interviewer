@@ -57,4 +57,10 @@ You can access all the datasets here.. Cheers !!
 &nbsp; <a href="mailto:indianteampi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-:star: Member of Team Pi
+:star: Members of Team Pi
+
+:brain: Yatharth Agarwal
+:brain: Swarup Tripathy
+:brain: Anvit Agarwal
+
+
