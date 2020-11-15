@@ -10,7 +10,7 @@
 
 <h2>About TeToAI</h2>
 
-<p>To the above problem statement we present you TeToAI [pronounced as 'te' from 'Teach' + 'to' from 'Today' + 'AI' from 'i'] whose full form is "Teaching Through Artificial Intelligence". <br>The Virtual Interviewing platform tends to assess the Facial Expressions of the Candidate into a statistical output to the respective Hiring Manager.</p>
+<p>To the above problem statement we present you TeToAI [pronounced as 'te' from 'Teach' + 'to' from 'Today' + 'AI' from 'i'] whose full form is "Testing Through Artificial Intelligence". <br>The Virtual Interviewing platform tends to assess the Facial Expressions of the Candidate into a statistical output to the respective Hiring Manager.</p>
 
 <h2>Inspiration</h2>
 
