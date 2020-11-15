@@ -4,7 +4,7 @@
 
 <p>A Virtual Interviewing Platform made to make the task of Talent Acquisition Managers easier in the Industrial Sectors. </p>
 
-<h2>Problem Statement<h/2>
+<h2>Problem Statement</h2>
 
 <p>Since the whole world is moving ahead to Digitisation in every sector, the Hiring Managers in several sectors are facing problems in hiring candidates suitable for their respective roles. The only source of communication is through several video call platforms where the candidates have the utmost advantage.</p>
 
