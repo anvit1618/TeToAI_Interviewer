@@ -1,4 +1,4 @@
-![Intro page](https://drive.google.com/uc?export=view&id=1aAQLFDY4FuCMENuihkTfaIm7Igycy306-)
+![Intro page](https://drive.google.com/uc?export=view&id=1aAQLFDY4FuCMENuihkTfaIm7Igycy306)
 
 <h1>TeToAI <br>[Testing through Artificial Intelligence]</h1>
 
